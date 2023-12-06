@@ -160,7 +160,7 @@ import $ from 'jquery'
     }
   }
 </script>
-<style lang="less" scoped>
+<style lang="scss" scoped>
 .search-box {
   float: right;
   background-color: #fff;
